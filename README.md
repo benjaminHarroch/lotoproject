@@ -68,11 +68,13 @@ _The last one that took place in the previous operation of the simulator (whose 
 
 ***Tools I used during the project:*** 
 
-  * Text and binaries (writing and reading from a file) ☑️
+  * File Text and binaries (writing and reading from a file) ☑️
   * Linked lists ☑️
   * Recursion ☑️
   * Memory management according to the requirements in C ☑️
   * Working with arrays ☑️
   * Sorting algorithms (MERGE SORT) ☑️
-  * random function ☑️
+  * Random function ☑️
+  * Work with bytes ☑️
+  * Generic functions ☑️
  
